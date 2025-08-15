@@ -9,4 +9,4 @@
 - Estrutura de projeto organizada e modular  
 - Testes automatizados com **pytest**
 
-[](img/docs.png)
+![](img/docs.png)
