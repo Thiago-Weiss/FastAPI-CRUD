@@ -8,3 +8,5 @@
 - Integração com banco de dados usando **SQLModel**  
 - Estrutura de projeto organizada e modular  
 - Testes automatizados com **pytest**
+
+[](img/docs.png)
